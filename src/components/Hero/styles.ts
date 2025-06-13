@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Cores } from '../..'
+import { Cores } from '../../GlobalStyle'
 
 export const Formulario = styled.form`
   height: 360px;
